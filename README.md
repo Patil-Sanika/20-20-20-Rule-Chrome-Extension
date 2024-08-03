@@ -1,4 +1,4 @@
-# 20-20-20 Rule Reminder
+# 20-20-20 Rule Reminder Browser Extension
 
 ![Extension Icon](icons/icon128.png)
 
